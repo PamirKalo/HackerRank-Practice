@@ -9,3 +9,4 @@
 | Challenge | Solution | Difficulty | Tags |
 |:---:|:------:|:------:|:------:|
 | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | [bigger-is-greater.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/bigger-is-greater.js) | Medium | `Sorting` `Next Permutation` |
+| [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | [minimum-distances.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/bigger-is-greater.js) | Easy | `Array` |
