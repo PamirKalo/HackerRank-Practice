@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# HackerRank - Problems and Solutions  
+# [My](https://www.hackerrank.com/PamirKalo?hr_r=1) HackerRank - Problems and Solutions  
 
 | Challenge | Solution | Difficulty | Tags |
 |:---:|:------:|:------:|:------:|
