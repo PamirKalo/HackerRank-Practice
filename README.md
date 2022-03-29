@@ -15,3 +15,4 @@
 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | [reduced-string.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/reduced-string.js) | Easy | `String` `Recursion` |
 | [Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem) | [truck-tour.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/truck-tour.js) | Hard | `Queue` |
 | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [funny-string.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/funny-string.js) | Easy | `String` `Recursion` |
+| [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) | [queue-using-two-stacks.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/queue-using-two-stacks.js) | Medium | `Queue` `Stack` |
