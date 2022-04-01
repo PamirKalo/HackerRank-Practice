@@ -17,3 +17,4 @@
 | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [funny-string.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/funny-string.js) | Easy | `String` `Recursion` |
 | [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) | [queue-using-two-stacks.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/queue-using-two-stacks.js) | Medium | `Queue` `Stack` |
 | [Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem) | [game-of-two-stacks.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/game-of-two-stacks.js) | Medium | `Stack` |
+| [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | [pairs.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/pairs.js) | Medium | `Binary Search` `Two Pointers` |
