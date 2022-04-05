@@ -19,3 +19,4 @@
 | [Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem) | [game-of-two-stacks.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/game-of-two-stacks.js) | Medium | `Stack` |
 | [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | [pairs.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/pairs.js) | Medium | `Binary Search` `Two Pointers` |
 | [Max Min](https://www.hackerrank.com/challenges/angry-children/problem) | [max-min.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/max-min.js) | Medium | `Two Pointers` `Greedy` |
+| [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/copy-from/164181404) | [weighted-uniform-string.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/weighted-uniform-string.js) | Easy | `String` `Dictionary` |
