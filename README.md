@@ -21,3 +21,4 @@
 | [Max Min](https://www.hackerrank.com/challenges/angry-children/problem) | [max-min.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/max-min.js) | Medium | `Two Pointers` `Greedy` |
 | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/copy-from/164181404) | [weighted-uniform-string.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/weighted-uniform-string.js) | Easy | `String` `Dictionary` |
 | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem) | [equal-stacks.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/equal-stacks.js) | Easy | `Stack` |
+| [Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) | [connected-cell-in-a-grid.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/connected-cell-in-a-grid.js) | Medium | `Depth First Search` `Stack` `Recursion`|
