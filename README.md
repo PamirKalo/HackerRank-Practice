@@ -23,3 +23,4 @@
 | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem) | [equal-stacks.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/equal-stacks.js) | Easy | `Stack` |
 | [Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) | [connected-cell-in-a-grid.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/connected-cell-in-a-grid.js) | Medium | `Depth First Search` `Stack` `Recursion`|
 | [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) | [maximum-element.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/maximum-element.js) | Easy | `Stack` |
+| [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [sparse-arrays.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/sparse-arrays.js) | Medium | `Array` |
