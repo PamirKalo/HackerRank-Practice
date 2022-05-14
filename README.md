@@ -24,3 +24,4 @@
 | [Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) | [connected-cell-in-a-grid.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/connected-cell-in-a-grid.js) | Medium | `Depth First Search` `Stack` `Recursion`|
 | [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) | [maximum-element.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/maximum-element.js) | Easy | `Stack` |
 | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [sparse-arrays.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/sparse-arrays.js) | Medium | `Array` |
+| [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | [closest-numbers.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/closest-numbers.js) | Easy | `Sorting` |
