@@ -25,3 +25,4 @@
 | [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) | [maximum-element.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/maximum-element.js) | Easy | `Stack` |
 | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [sparse-arrays.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Data%20Structures/sparse-arrays.js) | Medium | `Array` |
 | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | [closest-numbers.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/closest-numbers.js) | Easy | `Sorting` |
+| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [picking-numbers.js](https://github.com/PamirKalo/HackerRank-Practice/blob/main/Algorithms/picking-numbers.js) | Easy | `Sorting` |
